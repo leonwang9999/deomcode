@@ -1,4 +1,4 @@
-/* test
+/* test no pwd
  * Execute this script before before run the app 
  * Database: MySQL
  * 
