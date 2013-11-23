@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-1385170190426--1685517526" provider="mysql" driver="mysql5" name="MySQL - blog" create-date="1385170190426" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="blog" url="jdbc:mysql://localhost:3306/blog" user="root" password="QlZVdBQVJPc=" home="C:\Program Files (x86)\MySQL\Connector NET 6.7.4" type="dev">
+			<property name="DBNAME" value="blog"/>
+		</connection>
+	</data-source>
+</data-sources>
