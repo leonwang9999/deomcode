@@ -1,4 +1,4 @@
-/*
+/* test
  * Execute this script before before run the app 
  * Database: MySQL
  * 
